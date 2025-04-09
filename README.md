@@ -23,11 +23,11 @@ Spot on is a mobile application that helps users quickly locate, reserve, and na
 
 - Integrated Services:
 
-- - Google Maps API (location & directions)
+  - Google Maps API (location & directions)
 
-- - Payment Gateway API (VNPay, Momo, etc.)
+  - Payment Gateway API (VNPay, Momo, etc.)
 
-- - Firebase Authentication (user login)
+  - Firebase Authentication (user login)
 
 🧭 Activity Flow
 1. User opens the app
